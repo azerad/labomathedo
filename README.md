@@ -6,6 +6,9 @@ On les ouvre avec anaconda, plate forme de développement python très complète
 https://www.anaconda.com/distribution/
 Le téléchargement prend du temps car la distribution est très complète et occupe plusieurs Gb.
 L'avantage des notebooks est que les calculs, le texte et des graphiques sont dans une seule et même fenêtre.
+Si on ne veut ou peut pas télécharger anaconda, on peut aussi plus simplement les ouvrir avec https://nbviewer.jupyter.org/
+mais le fichier est alors "statique".
+On peut aussi  l'exécuter  sur une machine distante avec https://mybinder.org/
 
 Le fichier principal labomathedo.ipynb expose la théorie des équations différentielles et leur résolution approchée de manière élémentaire.
 
