@@ -8,8 +8,7 @@ NB le téléchargement de Anaconda prend du temps car la distribution est très 
 
 L'avantage des jupyter notebooks est que les calculs, le texte et des graphiques sont dans une seule et même fenêtre.
 Si on ne veut pas installer jupyter,  ni télécharger anaconda, on peut aussi plus simplement les ouvrir avec https://nbviewer.jupyter.org/ mais le fichier est alors "statique".
-
-On peut cependant  l'exécuter  sur une machine distante avec https://mybinder.org/
+On peut cependant  exécuter  le fichier sur une machine distante avec https://mybinder.org/
 
 Le fichier principal labomathedo.ipynb expose la théorie des équations différentielles et leur résolution approchée de manière élémentaire.
 
