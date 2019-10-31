@@ -5,10 +5,11 @@ Ce repo contient des fichiers python du type jupyter notebook.  Voir https://jup
 L'installation est automatique avec Anaconda, plate forme de développement python très complète 
 https://www.anaconda.com/distribution/
 NB le téléchargement de Anaconda prend du temps car la distribution est très complète et occupe plusieurs Gb.
+On peut aussi télécharger miniconda et ajouter les librairies nécessaires au fur et à mesure des besoins.
 
 L'avantage des jupyter notebooks est que les calculs, le texte et des graphiques sont dans une seule et même fenêtre.
 Si on ne veut pas installer jupyter,  ni télécharger anaconda, on peut aussi plus simplement les ouvrir avec https://nbviewer.jupyter.org/ mais le fichier est alors "statique".
-On peut cependant  exécuter  le fichier sur une machine distante avec https://mybinder.org/
+On peut cependant  exécuter  le fichier sur une machine distante avec https://mybinder.org/, enfin en principe.
 
 Le fichier principal labomathedo.ipynb expose la théorie des équations différentielles et leur résolution approchée de manière élémentaire.
 
