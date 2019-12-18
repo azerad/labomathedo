@@ -1,5 +1,5 @@
 # labomathedo
-exposé/atelier sur les équations différentielles pour un public de collègues volontaires au lycée
+exposé/atelier sur les équations différentielles pour un public de collègues volontaires au lycée René Gosse de Clermont l'Hérault.
 
 Ce repo contient des fichiers python du type jupyter notebook.  Voir https://jupyter.org/install pour l'installation de jupyter.
 L'installation est automatique avec Anaconda, plate forme de développement python très complète 
