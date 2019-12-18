@@ -12,7 +12,7 @@ L'avantage des jupyter notebooks est que les calculs, le texte et des graphiques
 Si on ne veut pas installer jupyter,  ni télécharger anaconda, on peut aussi plus simplement les ouvrir avec https://nbviewer.jupyter.org/ mais le fichier est alors "statique". On ne peut pas modifier les programmes.
 
 Il y a enfin une solution sans aucune installation nécessaire, il faut juste une machine avec un navigateur internet qui
-permet d'exécuter  le fichier sur une machine distante sans avoir installé quoi que ce soit sur sa machine, ni voir crée un compte github. Cette solution utilise le serveur https://mybinder.org/, mais l'exécution peut être  un peu plus lente, selon la qualité de votre connexion et la charge du serveur. Pour cela cliquer sur la bannière qui suit 
+permet d'exécuter  le fichier sur une machine distante sans avoir installé quoi que ce soit sur sa machine, ni voir crée un compte github. Cette solution utilise le serveur https://mybinder.org/, mais l'exécution peut être  un peu plus lente et parfois échouer, selon la qualité de votre connexion, la charge du serveur et d'autres raisons mystérieuses... Pour cela cliquer sur la bannière qui suit 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azerad/labomathedo/master)
 qui renvoie à l'adresse
 https://mybinder.org/v2/gh/azerad/labomathedo/master
