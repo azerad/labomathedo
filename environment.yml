@@ -6,7 +6,6 @@ dependencies:
    - ffmpeg
    - ipykernel
    - ipython
-   - ipython-genutils
    - ipywidgets
    - matplotlib
    - numpy
